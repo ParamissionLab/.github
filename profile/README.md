@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=ParamissionLab&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Open%20Source%20%7C%20Research%20%7C%20Innovation&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Paramission+Lab&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Open%20Source%20%7C%20Research%20%7C%20Innovation&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%AC+Building+Open+Source+for+Everyone;%F0%9F%9A%80+Research+%E2%80%A2+Develop+%E2%80%A2+Innovate;%F0%9F%8C%8D+Making+Technology+Accessible+to+All)](https://github.com/ParamissionLab)
@@ -9,7 +9,7 @@
 ---
 
 <!-- About Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About ParamissionLab
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Paramission Lab
 
 <table>
 <tr>
@@ -61,7 +61,7 @@ Philosophy: Code with purpose, share with passion
 <!-- Our Values -->
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Our Values
 
-<div align="left">
+<div align="center">
 
 | | Value | Description |
 |:---:|:---|:---|
